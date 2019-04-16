@@ -1,0 +1,1 @@
+  fprintf('Throughput: 4932266 \nEfficiency: 0.6165 \n');
